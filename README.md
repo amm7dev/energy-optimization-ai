@@ -76,8 +76,7 @@ The following parameters can be customized:
 | **Proportions of plant types** | Proportion between 0 and 1 for each type of power plant. |
 | **Proportion of guaranteed clients** | Proportion between 0 and 1 for guaranteed clients. |
 | **Random seed** | Seed used for generating reproducible problem instances. |
-| **Initial solution strategy** | Strategy used to generate the initial state before optimization. 
--> Modify the EstrategiaInicial value in the estadoInicial construction. |
+| **Initial solution strategy** | Strategy used to generate the initial state before optimization. -> Modify the EstrategiaInicial value in the estadoInicial construction. |
 | **Search algorithm** | Choice between Hill Climbing and Simulated Annealing. -> Modify cercaHC. |
 
 To modify these parameters, open `src/Main.java`, adjust the desired values, and recompile the project before execution.
