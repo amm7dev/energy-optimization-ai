@@ -1,5 +1,15 @@
-# Compiled class file
+# Compiled Java files
 *.class
+
+# University-provided libraries
+lib/*.jar
+
+# Generated files
+out/
+build/
+
+# Editor-specific files
+.vscode/
 
 # Log file
 *.log
