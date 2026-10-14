@@ -89,8 +89,6 @@ The energy simulation library is provided through the university course material
 
 ## Academic Context
 
-Developed as part of the Artificial Intelligence course at FIB-UPC.
-
 This repository showcases the implementation of search algorithms and optimization techniques in Java.
 Developed as part of the Artificial Intelligence course at FIB-UPC.
 
